@@ -1,4 +1,8 @@
-# base-restaurant
+## Base-restaurant
+
+**This is an old strange project that can be replaced**
+
+Updated all on 16.10.2020
 
 This project was built with Turbo 360. To learn more, click here: https://www.turbo360.co
 
